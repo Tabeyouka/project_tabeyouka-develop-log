@@ -133,3 +133,58 @@ function returnDay(Arg) {
     return week[Arg - 1];
 }
 ```
+
+## 関数式の演習問題
+
+数字の2乗した値を返す関数を定義してください。  
+**関数は関数式で定義して、squareという変数に代入してください。**  
+
+```js
+const square = function (Arg) {
+    return Math.pow(Arg, 2);
+}
+```
+
+## メソッドの演習問題
+
+`square`というオブジェクトを定義して、  
+`area`と`perimeter`というメソッドをもたせてください。  
+
+- `area`は`side`という引数を一つ受け取って、`side`を2乗した値を返します
+
+- `perimeter`は`side`を受け取って、4を乗算した値を返します
+
+```js
+const square = {
+    area(side) {
+        return Math.pow(side, 2);
+    },
+    perimeter(side) {
+        return side * 4;
+    }
+}
+```
+
+## メソッドのthisの演習問題
+
+`hen`というオブジェクトを定義してください。  
+2つのプロパティと、1つのメソッドを定義してください：  
+
+- `name`は`'Helen'`にしてください
+
+- `eggCount`は`0`にしてください
+
+- `layAnEgg`というメソッドを定義してください。   
+このメソッドは、自分の`eggCount`を`1`加算して、   
+`'EGG'`という文字列を`return`してください。（`this`を使う必要があります）   
+
+```js
+const hen = {
+    name: 'Helen',
+    eggCount: 0,
+    layAnEgg() {
+        this.eggCount ++;
+        return 'EGG';
+    }
+}
+```
