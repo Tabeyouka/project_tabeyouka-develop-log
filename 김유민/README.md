@@ -11,3 +11,4 @@
 3. 20230405 `Laravel Composer` 학습 [링크](https://github.com/devYuMinKim/Study_PHP/tree/main/composertest)
 4. 20230406 `PHP session` 학습 [링크1](https://github.com/devYuMinKim/Study_PHP/blob/main/sessiontest_1.php) [링크2](https://github.com/devYuMinKim/Study_PHP/blob/main/sessiontest_2.php)
 5. 20230407 `PHP DataSieve` 학습 [링크](https://github.com/devYuMinKim/Study_PHP/tree/main/DataSieve)
+6. 20230408 `Laravel Eloquent와 Query Builder` [링크](https://www.notion.so/devyuminkim/04-08-2b4a9119ea6d46799e41a43790109bce?pvs=4#0033f5ab9b4040cc9fa09e6cf20252d8)
