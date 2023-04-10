@@ -14,3 +14,4 @@
 6. 20230408 `Laravel Eloquent와 Query Builder` [링크](https://www.notion.so/devyuminkim/04-08-2b4a9119ea6d46799e41a43790109bce?pvs=4#0033f5ab9b4040cc9fa09e6cf20252d8)
 7. 20230409 `Laravel MVC 패턴` 학습 [링크](https://www.notion.so/devyuminkim/04-09-52f1cad6abd340b4bf76c8ef9076ad83?pvs=4#c86ec98f3dc544fc8bcd2623a91d0c68)
 8. 20230410 `JavaScript Promise, async/await` 학습 [링크](https://devyuminkim.notion.site/04-10-f5e6df9ece474b3087444c3346b3e0ac)
+9. 20230411 `Laravel Blade` 학습 [링크](https://devyuminkim.notion.site/04-11-a3685b3dcdfb436aab48eba553222afa)
