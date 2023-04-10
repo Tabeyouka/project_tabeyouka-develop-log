@@ -2,4 +2,4 @@
 
 # JavaScript
 
-    1. 20230410 `JavaScript 배열` 학습 [링크](https://github.com/hipo-panda/JavaScript/blob/main/arra.js)
+1. 20230410 `JavaScript 배열` 학습 [링크](https://github.com/hipo-panda/JavaScript/blob/main/arra.js)
