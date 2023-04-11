@@ -4,3 +4,4 @@
 - 230408 Function, Object [링크] (https://github.com/0gene68/JAVASCRIPT/tree/main/230408)
 - 230409 Prototype, Class, Getter/Setter [링크] (https://github.com/0gene68/JAVASCRIPT/tree/main/230409)
 - 230410 Ternary Operator, Truthy/Falsy, Short Circuit Evaluation [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230410)
+- 230411 Destructuring Assignments, Spread/Rest operator [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230411)
