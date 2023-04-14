@@ -6,3 +6,4 @@
 - 230410 Ternary Operator, Truthy/Falsy, Short Circuit Evaluation [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230410)
 - 230411 Destructuring Assignments, Spread/Rest operator [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230411)
 - 230412 Array Method [링크] (https://github.com/0gene68/JAVASCRIPT/tree/main/230412)
+- 230413 DOM(document object attributes/methods) [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230413) 
