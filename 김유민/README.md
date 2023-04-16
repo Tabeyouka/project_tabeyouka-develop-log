@@ -17,3 +17,5 @@
 9. 20230411 `Laravel Blade` 학습 [링크](https://devyuminkim.notion.site/04-11-a3685b3dcdfb436aab48eba553222afa)
 10. 20230412 `Laravel migration` 학습 [링크](https://devyuminkim.notion.site/04-12-40d7ac7fa57c4eae81fddba804f87fd8)
 11. 20230413 `PHP 데이터베이스 제어` 학습 [링크](https://devyuminkim.notion.site/04-13-dc13661dfa9a468ca8b2015fd7df00bf)
+12. 20230414 `JavaScript Ajax` 학습 [링크](https://devyuminkim.notion.site/04-14-27a45aba14014566903231e386afa164)
+13. 20230415 `JavaScript Fetch API` 학습 [링크](https://devyuminkim.notion.site/04-15-7a2edd7dc9044aa9b8f9c5cd9926f0c4)
