@@ -19,3 +19,4 @@
 11. 20230413 `PHP 데이터베이스 제어` 학습 [링크](https://devyuminkim.notion.site/04-13-dc13661dfa9a468ca8b2015fd7df00bf)
 12. 20230414 `JavaScript Ajax` 학습 [링크](https://devyuminkim.notion.site/04-14-27a45aba14014566903231e386afa164)
 13. 20230415 `JavaScript Fetch API` 학습 [링크](https://devyuminkim.notion.site/04-15-7a2edd7dc9044aa9b8f9c5cd9926f0c4)
+14. 20230416 `setTimeout()과 setInterval() 함수` 학습 [링크](https://devyuminkim.notion.site/04-16-efa5cd2058c54c529cba18c51270f456)
