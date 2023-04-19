@@ -12,4 +12,4 @@
 - 230416 Promise [링크] (https://github.com/0gene68/JAVASCRIPT/tree/main/230416)
 - 230417 Async Function / Await [링크] (https://github.com/0gene68/JAVASCRIPT/tree/main/230417) 
 - 230418 Promise Method(all, allSettled, race, resolve, reject) [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230418)
-
+- 230419 API, fetch() [링크](https://github.com/0gene68/JAVASCRIPT/tree/main/230419)
