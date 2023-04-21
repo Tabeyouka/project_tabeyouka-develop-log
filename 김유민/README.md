@@ -22,3 +22,5 @@
 14. 20230416 `setTimeout()과 setInterval() 함수` 학습 [링크](https://devyuminkim.notion.site/04-16-efa5cd2058c54c529cba18c51270f456)
 15. 20230417 `Laravel Tinker` 학습 [링크](https://devyuminkim.notion.site/04-17-b726832b38334151bec47c00c5b33cc5)
 16. 20230418 `Laravel Facade` 학습 [링크](https://devyuminkim.notion.site/04-18-809e8765176e42c59783fe69f8a753ec)
+17. 20230419 `JavaScript use Strict` 학습 [링크](https://devyuminkim.notion.site/04-19-258429b220314b9c9870c0bcc2104fc9)
+18. 20230420 `PHP 모던 PHP` 학습 [링크](https://devyuminkim.notion.site/04-20-fa2ba594a34c4aeba3d67d9ffe857bd9)
