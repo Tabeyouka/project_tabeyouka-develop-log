@@ -24,3 +24,4 @@
 16. 20230418 `Laravel Facade` 학습 [링크](https://devyuminkim.notion.site/04-18-809e8765176e42c59783fe69f8a753ec)
 17. 20230419 `JavaScript use Strict` 학습 [링크](https://devyuminkim.notion.site/04-19-258429b220314b9c9870c0bcc2104fc9)
 18. 20230420 `PHP 모던 PHP` 학습 [링크](https://devyuminkim.notion.site/04-20-fa2ba594a34c4aeba3d67d9ffe857bd9)
+19. 20230421 `PHP 유효성 검사와 데이터 정제` 학습 [링크](https://devyuminkim.notion.site/04-21-f6fcd825b7a446118efe57e0d250da61)
