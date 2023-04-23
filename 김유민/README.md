@@ -26,3 +26,4 @@
 18. 20230420 `PHP 모던 PHP` 학습 [링크](https://devyuminkim.notion.site/04-20-fa2ba594a34c4aeba3d67d9ffe857bd9)
 19. 20230421 `PHP 유효성 검사와 데이터 정제` 학습 [링크](https://devyuminkim.notion.site/04-21-f6fcd825b7a446118efe57e0d250da61)
 20. 20230422 `미들웨어` 학습 [링크](https://devyuminkim.notion.site/04-22-2363bce4fa364c949cd3e3d25ba7f645)
+21. 20230423 `React Props` 학습 [링크](https://devyuminkim.notion.site/04-23-be811b8c63424476938fb76c3d2efa67)
