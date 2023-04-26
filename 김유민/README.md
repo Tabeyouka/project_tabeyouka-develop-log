@@ -27,3 +27,6 @@
 19. 20230421 `PHP 유효성 검사와 데이터 정제` 학습 [링크](https://devyuminkim.notion.site/04-21-f6fcd825b7a446118efe57e0d250da61)
 20. 20230422 `미들웨어` 학습 [링크](https://devyuminkim.notion.site/04-22-2363bce4fa364c949cd3e3d25ba7f645)
 21. 20230423 `React Props` 학습 [링크](https://devyuminkim.notion.site/04-23-be811b8c63424476938fb76c3d2efa67)
+22. 20230424 `JavaScript e.target.value, value, innerHTML, textContent 차이` 학습 [링크](https://devyuminkim.notion.site/04-24-0b92f9d489cc4c16bef4724defff22a4)
+23. 20230425 `JavaScript parseInt와 Number의 차이` 학습 [링크](https://www.notion.so/devyuminkim/JavaScript-95f089b9777e4cf1830195b36a4a530b?pvs=4#f6959889ff7645be907c32355f9c15f4)
+24. 20230426 `JavaScript 기본 문법(Set, join..)` 학습 [링크](https://devyuminkim.notion.site/04-26-82662f0cfc454524a015c6c8082b7437)
