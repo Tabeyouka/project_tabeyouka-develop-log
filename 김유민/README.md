@@ -33,3 +33,4 @@
 25. 20230501 `JSX` 학습 [링크](https://devyuminkim.notion.site/05-01-4f1370a6e09645ecbaa74134619c0802)
 26. 20230505 `tabelog 크롤링` 구현 [링크](https://github.com/devYuMinKim/crawling-tabelog)
 27. 20230506 마이그레이션 및 로직 구현 [링크](https://devyuminkim.notion.site/05-06-677185202a8b4c01814237e86e6fd9f1)
+28. 20230507 마이그레이션 및 로직 구현 [링크](https://devyuminkim.notion.site/05-07-2ee2a478b0b04fe0a5356f775bcc4e29)
