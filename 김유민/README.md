@@ -36,3 +36,4 @@
 28. 20230507 `마이그레이션 및 로직` 구현 [링크](https://devyuminkim.notion.site/05-07-2ee2a478b0b04fe0a5356f775bcc4e29)
 29. 20230508 `테스트코드` 작성 [링크](https://devyuminkim.notion.site/05-08-1b8c2c9963b24beb8e4b1c6d77293c76)
 30. 20230509 `User 테스트코드` 오류 수정 [링크](https://devyuminkim.notion.site/05-09-2f763057a92d4809a76cd19dbd755096)
+31. 20230510 `Restaurant 테스트코드` 오류 수정 [링크](https://devyuminkim.notion.site/05-10-e7f99e922356499aa1c1a784b409e7cc)
